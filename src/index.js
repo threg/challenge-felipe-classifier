@@ -2,7 +2,7 @@ let nomeHeroi = "Talles"
 let xpHeroi = 5003
 let nivel = ""
 
-// - Validar se a condição for igual a verdadeiro, caso seja definir seu nivel.
+// - Validar se a condição for igual a verdadeiro, caso seja, definir seu nivel de acordo com a quantidade de XP.
 switch(true) {
     case xpHeroi <= 1000:
         nivel = "Ferro"
